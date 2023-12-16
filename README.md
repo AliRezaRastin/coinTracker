@@ -1,5 +1,4 @@
 
-https://github.com/AliRezaRastin/coinTracker/assets/103937572/791099fe-9a1c-4862-8a3d-86a8b7e51999
 
 # Demo: 
 
